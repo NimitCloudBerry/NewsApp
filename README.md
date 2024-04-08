@@ -29,4 +29,4 @@ To build and run the project, you need to have Android Studio installed.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/news-app.git
+   git clone https://github.com/NimitCloudBerry/NewsApp/tree/dev/nimit_news
